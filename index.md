@@ -8,3 +8,7 @@ Welcome to my website!
 2. Garlic Bread
 3. Pasta
 4. Tacos
+
+### Cute Puppy
+
+![a puppy](https://hips.hearstapps.com/countryliving.cdnds.net/17/47/1511194376-cavachon-puppy-christmas.jpg)
